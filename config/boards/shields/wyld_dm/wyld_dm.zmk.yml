@@ -2,7 +2,7 @@ file_format: "1"
 id: wyld_dm
 Name: wyld_dm
 type: shield
-url: https://github.com/bullwinkle3000/zmk-config-xiao/
+url: https://github.com/dbodyas/zmk-config-nano
 requires:
   - nice_nano_v2
 features:
