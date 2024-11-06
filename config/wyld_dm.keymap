@@ -47,8 +47,8 @@
             bindings = <
 &kp F13           &kp F1             &kp F2             &kp F3    &kp F4      &kp F5           &kp F6                          &kp F7     &kp F8           &kp F9    &kp F10   &kp F11
 &kp GRAVE         &kp EXCL           &kp AT             &kp HASH  &kp DOLLAR  &kp PRCNT        &kp CARET                       &kp AMPS   &kp KP_MULTIPLY  &kp LPAR  &kp RPAR  &trans
-&ext_power EP_ON  &ext_power EP_OFF  &ext_power EP_TOG  &kp UP    &trans      &rgb_ug RGB_TOG  &rgb_ug RGB_COLOR_HSB(0,0,100)  &kp MINUS  &kp KP_PLUS      &kp LBRC  &kp RBRC  &kp PIPE
-&sys_reset        &trans             &kp LEFT           &kp DOWN  &kp RIGHT   &rgb_ug RGB_EFF  &trans                          &trans     &trans           &trans    &trans    &sys_reset
+&rgb_ug RGB_ON    &rgb_ug RGB_OFF    &trans             &kp UP    &trans      &rgb_ug RGB_EFF  &rgb_ug RGB_COLOR_HSB(0,0,100)  &kp MINUS  &kp KP_PLUS      &kp LBRC  &kp RBRC  &kp PIPE
+&sys_reset        &trans             &kp LEFT           &kp DOWN  &kp RIGHT   &trans           &trans                          &trans     &trans           &trans    &trans    &sys_reset
 &bootloader       &trans             &trans             &trans    &trans      &trans           &trans                          &trans     &trans           &trans    &trans    &bootloader
                                      &trans             &trans                                                                            &trans           &trans
                   &trans             &trans             &trans    &trans      &trans           &trans                          &trans     &trans           &trans    &trans
